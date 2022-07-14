@@ -6,6 +6,7 @@
     <description>Recent content in Tags on &lt;Techtaste&gt;</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 14 Jul 2022 06:05:36 +0000</lastBuildDate>
     
 	<atom:link href="https://netrapk.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -25,6 +26,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://netrapk.github.io/tags/cloud9-ide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New_tag</title>
+      <link>https://netrapk.github.io/tags/new_tag/</link>
+      <pubDate>Thu, 14 Jul 2022 06:05:36 +0000</pubDate>
+      
+      <guid>https://netrapk.github.io/tags/new_tag/</guid>
       <description></description>
     </item>
     

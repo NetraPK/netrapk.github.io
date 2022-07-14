@@ -6,7 +6,7 @@
     <description>Recent content on &lt;Techtaste&gt;</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Oct 2018 16:08:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Jul 2022 06:05:36 +0000</lastBuildDate>
     
 	<atom:link href="https://netrapk.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -27,6 +27,15 @@
       
       <guid>https://netrapk.github.io/projects/project1/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Demo</title>
+      <link>https://netrapk.github.io/post/demo/</link>
+      <pubDate>Thu, 14 Jul 2022 06:05:36 +0000</pubDate>
+      
+      <guid>https://netrapk.github.io/post/demo/</guid>
+      <description> </description>
     </item>
     
     <item>

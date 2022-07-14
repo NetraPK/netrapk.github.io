@@ -10,5 +10,14 @@
 	<atom:link href="https://netrapk.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>New_post</title>
+      <link>https://netrapk.github.io/categories/new_post/</link>
+      <pubDate>Thu, 14 Jul 2022 06:05:36 +0000</pubDate>
+      
+      <guid>https://netrapk.github.io/categories/new_post/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
